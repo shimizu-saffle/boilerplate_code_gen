@@ -33,6 +33,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  boilerplate_code_annotation:
+    dependency: "direct main"
+    description:
+      path: "../boilerplate_code_annotation"
+      relative: true
+    source: path
+    version: "1.0.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -353,6 +360,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
+  source_gen:
+    dependency: "direct main"
+    description:
+      name: source_gen
+      sha256: fc0da689e5302edb6177fdd964efcb7f58912f43c28c2047a808f5bfff643d16
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
   source_map_stack_trace:
     dependency: transitive
     description:
